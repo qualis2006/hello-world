@@ -12,6 +12,6 @@ class Man:
     def goodbye(self):
         print("Good-bye " + self.name + "!")
 
-m = Man("David")
+m = Man("Bob")
 m.hello()
 m.goodbye()
